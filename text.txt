@@ -1,0 +1,1 @@
+writeFileSync method is used to synchronously write data to a file. If the file does not exist it creates a new one

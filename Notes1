@@ -1,0 +1,13 @@
+javascript engines
+chrome-->> v8
+firefox -->> spidermonkey
+
+=> Ryan -> developer of nodejs -->> he embedded the chrome "v8" engine with the c++ code and called the project as nodejs
+=> javascript can be run outside the browser, and it can take with the native machine because of C++
+=> Nodejs is a run-time environment for javascript
+
+=> All the DOM related elements or window related elements where removed. 
+----------------------------------------------------------------------------
+require keyword -->> used for importing the packages or the modules
+-->> suppose if we created a file that has a function in it, we need to export that function so that it can be used
+
